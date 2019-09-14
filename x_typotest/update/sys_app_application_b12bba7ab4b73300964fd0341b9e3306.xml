@@ -6,6 +6,7 @@
         <device_type>browser</device_type>
         <hint/>
         <name/>
+        <element
         <order/>
         <roles>x_typotest.user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
